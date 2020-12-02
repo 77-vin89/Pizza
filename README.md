@@ -1,2 +1,2 @@
 # Pizza
-I am going to show you how to make ca pizza
+I am going to show you how to make a pizza
